@@ -1,4 +1,4 @@
-package ABSTRACTION_INTERFERENCE;
+package main.ABSTRACTION_INTERFERENCE;
 abstract class Device {
 
     // Variable
