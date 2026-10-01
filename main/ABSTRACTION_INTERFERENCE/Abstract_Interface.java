@@ -1,4 +1,4 @@
-package main.ABSTRACTION_INTERFERENCE;
+package _.main.ABSTRACTION_INTERFERENCE;
 abstract class Device {
 
     Device() {

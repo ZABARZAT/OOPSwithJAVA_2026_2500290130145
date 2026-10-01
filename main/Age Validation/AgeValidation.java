@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class Agevalidation {
+public class AgeValidation {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
